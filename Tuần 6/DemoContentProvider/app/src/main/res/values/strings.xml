@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoContentProvider</string>
+    <string name="show_all_contact">Show All Contact</string>
+    <string name="access_the_call_log">Access The Call Log</string>
+    <string name="access_media_store">Access Media Store</string>
+    <string name="access_bookmarks">Access Bookmarks</string>
+    <string name="title_activity_show_all_contact">title_activity_show_all_contact</string>
+    <dimen name="show_all_contact_activity">ShowAllContactActivity</dimen>
+</resources>
